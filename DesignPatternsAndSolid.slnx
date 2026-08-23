@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="LiskovSubstitution/LiskovSubstitution.csproj" />
   <Project Path="OpenClosed/OpenClosed.csproj" />
   <Project Path="SingleResponsibility/SingleResponsibility.csproj" />
 </Solution>
