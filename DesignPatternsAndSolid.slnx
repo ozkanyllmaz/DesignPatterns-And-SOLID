@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/DesignPatterns/" />
   <Folder Name="/DesignPatterns/Creational/">
+    <Project Path="FactoryPattern/FactoryPattern.csproj" Id="ed6f84d5-7d60-46ac-a580-9341080c5de4" />
     <Project Path="SingletonPattern/SingletonPattern.csproj" Id="5539af67-d091-4430-ba73-0e3a20fd4b3b" />
   </Folder>
   <Project Path="DependencyInversion/DependencyInversion.csproj" />
