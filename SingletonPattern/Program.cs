@@ -33,7 +33,7 @@
 
 //-------------------------------------------------------------------
 
-// Lazy Singleton
+// Thread-Safe Singleton
 
 using SingletonPattern;
 
