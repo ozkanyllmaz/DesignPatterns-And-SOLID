@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/DesignPatterns/" />
+  <Folder Name="/DesignPatterns/Behavioral/">
+    <Project Path="Strategy/Strategy.csproj" Id="3c0f2fac-0c3a-4a8e-9c1d-2989127d1277" />
+  </Folder>
   <Folder Name="/DesignPatterns/Creational/">
     <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" Id="3931ddd5-285a-4837-a6c5-7114d7ff734d" />
     <Project Path="FactoryPattern/FactoryPattern.csproj" Id="ed6f84d5-7d60-46ac-a580-9341080c5de4" />
