@@ -7,6 +7,7 @@
   </Folder>
   <Folder Name="/DesignPatterns/Structural/">
     <Project Path="Adapter/Adapter.csproj" Id="6a1f496e-26d2-4242-8213-725c1f7c3d65" />
+    <Project Path="Decorator/Decorator.csproj" Id="35fa4fde-9da7-4b22-b7bf-19ec437f7aa5" />
     <Project Path="Facade/Facade.csproj" Id="c2e78f6a-d1a4-4c2f-875b-65962d2199a2" />
   </Folder>
   <Project Path="DependencyInversion/DependencyInversion.csproj" />
