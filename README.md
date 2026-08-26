@@ -4,10 +4,15 @@ Bu depo, Nesne Yönelimli Programlama (OOP) dünyasının temelini oluşturan **
 
 Gerçek dünya senaryoları (E-ticaret sistemleri, lojistik operasyonları, ödeme entegrasyonları vb.) kullanılarak, karmaşık mimari yaklaşımlar en sade halleriyle koda dökülmüştür.
 
-## 🚀 Proje Amacı
-* Temiz Kod (Clean Code) ve Gevşek Bağlılık (Loose Coupling) felsefelerini kavramak.
-* "If-else" cehenneminden kurtulup, polimorfizm ve arayüzler (interfaces) aracılığıyla genişletilebilir (Open/Closed) sistemler kurmak.
-* Mülakatlarda ve gerçek kurumsal projelerde (özellikle N-Tier ve Clean Architecture mimarilerinde) sıkça karşılaşılan desenleri referans olarak barındırmak.
+## 🚀 Proje Amacı ve Kapsamı
+
+Bu projenin temel amacı; **SOLID prensipleri** ve **Tasarım Desenlerinin (Design Patterns)** yalnızca teorik kavramlar olarak kalmayıp, kodlanmış uygulamalı örnekler üzerinden derinlemesine öğrenilmesidir. Aynı zamanda, modern yazılım geliştirme süreçlerinin vazgeçilmezi olan profesyonel Git ve GitHub kullanım alışkanlıklarının pekiştirilmesi hedeflenmiştir.
+
+Bu doğrultuda proje, aşağıdaki gereksinimler ve standartlar çerçevesinde geliştirilmiştir:
+
+* **Bağımsız Örnekler:** SOLID ve Tasarım Desenleri kapsamında incelenen her bir kavram için, kavramın amacını ve kullanım şeklini net bir şekilde anlatan ayrı senaryolar/sınıflar oluşturulmuştur.
+* **Düzenli Klasör Mimarisi:** Tüm projeler ve kodlar; Yaratımsal, Yapısal, Davranışsal desenler ve SOLID prensipleri olmak üzere hiyerarşik ve modüler bir klasör yapısı altında toplanmış, isimlendirmeler anlaşılır tutulmuştur.
+* **Versiyon Kontrol Disiplini:** Geliştirme süreci boyunca Git prensiplerine sadık kalınmış; kodlar tek seferde yığınla değil, her bir desenin mantığına uygun, düzenli ve anlamlı commit mesajlarıyla depoya aktarılmıştır.
 
 ## 📐 SOLID Prensipleri
 
