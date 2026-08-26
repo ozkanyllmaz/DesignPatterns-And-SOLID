@@ -34,7 +34,6 @@ Sınıfların ve nesnelerin yapılarını bozmadan, onları birleştirerek daha 
 * **Adapter:** Uyumsuz arayüzleri (Örn: Eski bir banka XML servisi ile modern sistem) birbirine bağlar.
 * **Facade:** Karmaşık alt sistemleri (Stok, Ödeme, Fatura, Bildirim) gizleyerek, istemciye (Client) tek ve temiz bir metot sunar.
 * **Decorator:** Ana kodu hiç ellemeden, sınıfın etrafını sararak (Matruşka mantığı) dinamik yeni özellikler (Loglama, Caching) ekler.
-* **Proxy:** Asıl nesneye erişimi kontrol etmek için araya bir güvenlik/yetki kontrol katmanı koyar.
 
 ### 3. Davranışsal (Behavioral) Desenler
 Nesneler arası iletişim, algoritma yönetimi ve sorumluluk dağıtımıyla ilgilenir.
