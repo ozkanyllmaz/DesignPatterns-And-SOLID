@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/DesignPatterns/" />
   <Folder Name="/DesignPatterns/Behavioral/">
+    <Project Path="Observer/Observer.csproj" Id="367b5066-f95d-46e9-881b-1090aadd7d79" />
     <Project Path="Strategy/Strategy.csproj" Id="3c0f2fac-0c3a-4a8e-9c1d-2989127d1277" />
   </Folder>
   <Folder Name="/DesignPatterns/Creational/">
